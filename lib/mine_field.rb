@@ -1,5 +1,3 @@
-
-
 require "mine_field/version"
 require "mine_field/map"
 require "mine_field/point"
