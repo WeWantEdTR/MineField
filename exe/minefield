@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require "minefield"
+
+actions = MineField::Actions.new
+
+actions.start
+
+loop { actions.entry }
